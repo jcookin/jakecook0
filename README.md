@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jakecook0
 - 👀 I’m interested in web technologies, security, data visualization, and machine learning
-- 🌱 I’m currently learning AI, nodejs, javascript
+- 🌱 I’m currently learning AI, nodejs, javascript, c++
 - 📫 How to reach me: portfolio-jake-cook.herokuapp.com
 
 <!---
